@@ -1,0 +1,9 @@
+─ CERN OHL v2 / GNU GPLv3 / Public Domain Hybrid License Architecture ──## 【英文：Official Legal Policy】
+All scientific paradigms, clinical processes, source codes, and hardware specifications codified within this project (Protocol Code: OS-LEUK) are systematically governed under the following "3-Layer Hybrid Open-Source Architecture" to permanently prohibit proprietary monopolization and guarantee unencumbered global access.
+
+   1. Layer 1: Therapeutic Protocol & Medical Process
+   The specific molecular combination of off-patent generic adjuvants, the kinetic synchronization schedules, and the underlying mathematical models are explicitly dedicated to the Public Domain. Pursuant to international patent laws and treaties, this disclosure establishes binding "Prior Art," permanently prohibiting any entity from securing restrictive secondary-use or method-of-treatment patents. Universal access for clinical execution and bedside physician administration is granted permanently on a 100% royalty-free basis.
+   2. Layer 2: Biomedical Hardware & Manufacturing Specifications
+   The structural designs of the frangible multi-chamber bedside reconstitution containers, biocompatible non-adherent fluidic administration sets (MPC polymer-coated lines), and the automated bioreactor bulk expansion processes are explicitly governed under the CERN OHL v2 (CERN Open Hardware Licence Version 2 - Strongly Reciprocal). Any downstream modification, implementation, or physical manufacturing derived from these specifications must be shared under the identical reciprocal licensing framework.
+   3. Layer 3: Computational Mathematical Models & Software Code
+   The analytical kinetic time-window prediction algorithms and all source codes for in vivo cellular tracking image processing are explicitly licensed and distributed under the GNU GPLv3 (GNU General Public License version 3).
