@@ -1,0 +1,16 @@
+
+------------------------------
+## Appendix: Comparative Matrix of Standard Leukaemia Therapies vs. The Proposed Open-Source Protocol
+
+| Evaluation Criteria | ① Conventional Cytotoxic Chemotherapy | ② Allogeneic HSCT / Current Autologous CAR-T | 🌟 Proposed Next-Generation Treatment (Target Goal) |
+|---|---|---|---|
+| Total Healthcare Expenditure (Drug Cost + Hospitalization) | High ($30k – $100k+) Accumulates via prolonged, intermittent cycles of treatment. | Prohibitively High ($300k – $800k+) Commercial CAR-T pricing routinely exceeds $400k per infusion. | Low ($5k – $20k estimated) Achieved via off-the-shelf mass production and standard fluidics compatibility. |
+| Duration of Treatment & Clinical Imprisonment | Months to Years Repeated cycles of multi-week hospitalizations and temporary discharge. | Multiple Months Requires mandatory 1 to 3-month strict isolation in specialized laminar-flow cleanrooms. | Days to Weeks (Outpatient-Capable) 3-day preemptive oral priming followed by a 1-hour standard IV infusion; targets zero inpatient days. |
+| Patient Physiological Burden & Quality of Life | Severe Characterized by intractable emesis, alopecia, and profound systemic fatigue. | Critically Severe (Life-Threatening) Requires myeloablative conditioning that entirely decimates host hematopoietic systems. | Minimal Transient homeostatic modulation via benign generic agents; preserves non-targeted host tissues. |
+| Acute Complication Profile | High Presents substantial risks of febrile neutropenia, hemorrhage, and severe anemia. | Extremely High (Lethal Risks) High incidence of Cytokine Release Syndrome (CRS) and life-threatening opportunistic infections. | Low Preservation of the host's fundamental immune architecture dramatically mitigates infectious risks. |
+| Long-Term Secondary Malignancy Risks | Present Genotoxic stress introduces statistical risks of therapy-related secondary malignancies (e.g., t-MDS). | Present Total-body irradiation or high-dose alkylating agents permanently damage normal stem cell DNA. | Negligible Exclusively utilizes off-patent, non-genotoxic generic molecules for environmental conditioning. |
+| Relapse Logistics & Redosability | Severely Restricted Progressive physiological decline routinely precludes subsequent high-dose salvage regimens. | Clinically Obstructed Second transplants carry prohibitive mortality rates; commercial CAR-T redosing is economically unviable. | Infinitely Redosable Zero cumulative systemic toxicity allows for safe, repeated administration upon molecular recurrence. |
+
+------------------------------
+
+
